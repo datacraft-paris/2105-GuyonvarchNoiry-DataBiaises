@@ -1,0 +1,3 @@
+# 2105R_GuyonvarchNoiry_dataBiaises
+
+This is the companion code associated with the datacraft presentation of Yannick Guyonvarch and Nathan Noiry, about bias in data.
